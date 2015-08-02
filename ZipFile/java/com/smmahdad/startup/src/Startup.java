@@ -1,6 +1,6 @@
-package com.smmahdad.startup;
+package com.smmahdad.startup.src;
 
-import com.smmahdad.runner.Distributor;
+import com.smmahdad.runner.src.Distributor;
 
 public class Startup {
 	public static void main(String[] args) {

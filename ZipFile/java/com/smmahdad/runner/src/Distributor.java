@@ -1,8 +1,8 @@
-package com.smmahdad.runner;
+package com.smmahdad.runner.src;
 
-import com.smmahdad.filter.FileFilter;
+import com.smmahdad.filter.src.FileFilter;
 import java.util.InputMismatchException;
-import com.smmahdad.unzipper.UnzipBasic;
+import com.smmahdad.unzipper.src.UnzipBasic;
 
 public class Distributor {
 	public static void filteringBasedOnExistence(String fileName) {

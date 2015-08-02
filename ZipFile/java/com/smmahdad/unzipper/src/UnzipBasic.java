@@ -1,4 +1,4 @@
-package com.smmahdad.unzipper;
+package com.smmahdad.unzipper.src;
 
 public class UnzipBasic {
 	public static void unzip(String filenName) {
